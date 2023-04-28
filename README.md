@@ -1,6 +1,5 @@
 # :gem: Clonación de la interfaz de Google :gem:
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro
-![google_clone](https://user-images.githubusercontent.com/131834557/235233629-348abe0d-6873-4389-a2b9-1889aa2c306a.png)
 
 ## ÍNDICE
 * [Intro](https://github.com/marianamejiar/Google-Clone/blob/main/README.md#penguin-intro)
@@ -28,5 +27,7 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 
 ## :cherry_blossom: Link al demo
 Visualiza mi proyecto aquí :arrow_right: [Clonación de Google](https://marianamejiar.github.io/Google-Clone/)
+
+![google_clone](https://user-images.githubusercontent.com/131834557/235233947-4521a312-c26e-44a2-b66b-e4cc5792fd67.png)
 
 
