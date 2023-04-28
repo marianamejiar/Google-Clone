@@ -2,10 +2,10 @@
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro
 
 ## ÍNDICE
-* [Intro]()
-* [¿Qué construí?]()
-* [Objetivos del proyecto]()
-* [Link al demo]()
+* [Intro](https://github.com/marianamejiar/Google-Clone/blob/main/README.md#penguin-intro)
+* [¿Qué construí?](https://github.com/marianamejiar/Google-Clone/blob/main/README.md#tulip-qu%C3%A9-constru%C3%AD)
+* [Objetivos del proyecto](https://github.com/marianamejiar/Google-Clone/blob/main/README.md#honeybee-objetivo-del-proyecto)
+* [Link al demo](https://github.com/marianamejiar/Google-Clone/blob/main/README.md#cherry_blossom-link-al-demo)
 
 ***
 
