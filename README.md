@@ -27,3 +27,5 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 
 ## :cherry_blossom: Link al demo
 Visualiza mi proyecto aquí :arrow_right: [Clonación de Google](https://marianamejiar.github.io/Google-Clone/)
+
+![google_clone](https://user-images.githubusercontent.com/131834557/235233629-348abe0d-6873-4389-a2b9-1889aa2c306a.png)
