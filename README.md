@@ -10,11 +10,11 @@
 ***
 
 ## :penguin: Intro
-HTML o HyperText Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos todos los días en el navegador. Definimos en significado, la estructura y el estilo del contenido web a través de estas tecnologías.
+HTML o HyperText Markup Language, es el componente básico de la web y junto con CSS, se crean páginas web que usamos todos los días en el navegador. Definimos en significado, la estructura y el estilo del contenido web a través de estas tecnologías.
 En este proyecto, se utilizo HTML y CSS para construir una clonación de la interfaz de Google.
 
 ## :tulip: ¿Qué construí?
-El proyecto está enfocado en la construcción de la interfaz de Google, tomando especial atención a su UI/UX para replicar su comportamiento y estilo al 100%. L ainterfaz se encuentra dividida en las siguientes secciones:
+El proyecto está enfocado en la construcción de la interfaz de Google, tomando especial atención a su UI/UX para replicar su comportamiento y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones:
 
 *Header: Sección donde se encuentra la navegación principal de Google, como la foto de perfil del ususario, íconos y menú.
 
