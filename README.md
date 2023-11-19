@@ -10,7 +10,7 @@
 ***
 
 ## :penguin: Intro
-HTML o HyperText Markup Language, es el componente básico de la web y junto con CSS, se crean páginas web que usamos todos los días en el navegador. Definimos en significado, la estructura y el estilo del contenido web a través de estas tecnologías.
+HTML o HyperText Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos todos los días en el navegador. Definimos en significado, la estructura y el estilo del contenido web a través de estas tecnologías.
 En este proyecto, se utilizo HTML y CSS para construir una clonación de la interfaz de Google.
 
 ## :tulip: ¿Qué construí?
